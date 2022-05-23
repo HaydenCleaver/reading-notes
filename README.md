@@ -4,7 +4,7 @@
 
 ***
 
-Growth mindset is adapting your outlook towards the idea that your knowledge and intellect aren't fixed values and that you can always improve yourself with effort. <br>
+I view growth mindset as the process of adapting your outlook towards the idea that your knowledge and intellect aren't fixed values, and that you can always improve yourself with effort.
 
 Some reminders about growth mindset:
 
