@@ -18,10 +18,24 @@ A single server that stores all files versions and changes.  Can be accessed by 
 
 Similar idea to CVCS, but it uses mirrored repositories that can be in multiple locations.  This prevents the loss/corruption of data due to being located in one place alone since data can be easily backed up.  Also allows for simultaneous workflow.
 
+***
+
+### Git
+
+Git is a DVCS that stores data in a file system made of snapshots.
+
+***
+
+**ACP**
+
+In order to update and sync the files from your computer to an application like Github, it needs to go through a process known as ACP.
+
+- Add: local changes to the file must be staged to be saved/snapshotted to the file.
+- Commit: this saves the changes and a comment can be added to indicate what was changed
+- Push: this pushes the altered file out to the application and syncs it with your local file.
+
+***
+
 ### Random Notes
 
 Usually, one project = one repository
-
-Cloning
-
-gitflow:acp
