@@ -28,3 +28,7 @@ Some common commands are:
 
 [Windows Cheat Sheet](http://www.cs.columbia.edu/~sedwards/classes/2017/1102-spring/Command%20Prompt%20Cheatsheet.pdf)<br>
 [Linux Cheat Sheet](https://www.guru99.com/linux-commands-cheat-sheet.html)
+
+***
+
+[Return to Table of Contents](https://haydencleaver.github.io/reading-notes/)

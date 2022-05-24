@@ -13,8 +13,6 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 
 ## Table of Contents
 
-***
-
 - [Class 1: Markdown and Github](https://haydencleaver.github.io/reading-notes/Class1)
 - [Class 2: Text Editors and Terminal](https://haydencleaver.github.io/reading-notes/Class2)
 - [Class 3: Git](https://haydencleaver.github.io/reading-notes/Class3)

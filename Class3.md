@@ -39,3 +39,7 @@ In order to update and sync the files from your computer to an application like 
 ### Random Notes
 
 Usually, one project = one repository
+
+***
+
+[Return to Table of Contents](https://haydencleaver.github.io/reading-notes/)

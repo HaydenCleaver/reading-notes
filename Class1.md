@@ -27,3 +27,7 @@ You can use simple characters to create such things as headers, lists (numbered,
 - Lists: can be started with "-" or "1."
 - Block quotes: ">"
 - Links: "\[Title]\(Web Address)"
+
+***
+
+[Return to Table of Contents](https://haydencleaver.github.io/reading-notes/)
