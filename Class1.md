@@ -12,4 +12,4 @@ You can use simple characters to create such things as headers, lists (numbered,
 - Headers: "#"
 - Lists: can be started with "-" or "1."
 - Block quotes: ">"
-- Links: "[Title](Web Address)"
+- Links: "\[Title]\(Web Address)"
