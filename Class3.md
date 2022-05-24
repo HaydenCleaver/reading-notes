@@ -17,3 +17,11 @@ A single server that stores all files versions and changes.  Can be accessed by 
 **Distributed Version Control System (DVCS)**
 
 Similar idea to CVCS, but it uses mirrored repositories that can be in multiple locations.  This prevents the loss/corruption of data due to being located in one place alone since data can be easily backed up.  Also allows for simultaneous workflow.
+
+### Random Notes
+
+Usually, one project = one repository
+
+Cloning
+
+gitflow:acp
