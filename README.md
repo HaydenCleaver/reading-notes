@@ -17,3 +17,5 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 - [Class 2: Text Editors and Terminal](https://haydencleaver.github.io/reading-notes/Class2)
 - [Class 3: Git](https://haydencleaver.github.io/reading-notes/Class3)
 - [Class 4: Wireframming and HTML](https://haydencleaver.github.io/reading-notes/Class4)
+- [Class 5: CSS](https://haydencleaver.github.io/reading-notes/Class5)
+- [Class 6: JavaScript](https://haydencleaver.github.io/reading-notes/Class6)
