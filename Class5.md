@@ -12,8 +12,9 @@ CSS can be used to for anything ranging from color and font size, to altering th
 
 ### CSS Syntax
 
-'''
+```
 h1 {
     color: red;
     font-size: 5em;
 }
+```
