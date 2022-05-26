@@ -18,6 +18,21 @@ h1 {
     font-size: 5em;
 }
 ```
+In this case `h1` is the selector, `color` is the property, and `red` is the value.
+
+### Ways to Insert CSS
+
+1. External: Pulled from a .css document.
+2. Internal: Defined inside the `<style>` element, which is in the `<head>` section of an HTML page.
+3. Inline: Style attribute is added directly to an element.
+
+Generally, the last read style will be the one that is applied. However, there is a hierarchy based upon the method used.
+
+1. Inline style*
+2. External and internal (whichever is read last)
+3. Browser default
+
+*do things referenced with id or class take precedent regardless of where they're located?
 
 ***
 

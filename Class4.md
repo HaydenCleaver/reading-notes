@@ -44,6 +44,9 @@ HTML --> Skeleton <br>
 CSS --> Hair, Clothes <br>
 JavaScript --> What you do (actions, movement, etc...)
 
+id = a unique identifier for one element (called with #idName)
+
+class = an identifier that can be assigned to multiple elements (called with .className)
 ***
 
 [Return to Table of Contents](https://haydencleaver.github.io/reading-notes/)
