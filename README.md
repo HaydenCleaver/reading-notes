@@ -1,4 +1,4 @@
-# Notes
+# 201 Notes
 
 ### Introduction
 
@@ -10,10 +10,7 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 [Github Profile](https://github.com/HaydenCleaver)
 
 ***
-## 201 Notes
-### Table of Contents
-
-***
+## Table of Contents
 
 #### Daily Reading Assignments:
 
