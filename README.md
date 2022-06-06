@@ -10,8 +10,16 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 [Github Profile](https://github.com/HaydenCleaver)
 
 ***
+## 201 Notes
+### Table of Contents
 
-## Table of Contents
+***
+
+#### Daily Reading Assignments:
+
+***
+
+### 102 Notes:
 
 - [Class 1: Markdown and Github](https://haydencleaver.github.io/reading-notes/Class1)
 - [Class 2: Text Editors and Terminal](https://haydencleaver.github.io/reading-notes/Class2)
