@@ -50,7 +50,7 @@ The positioning of these blocks can be controlled with positioning schemes.
 
 Functions can be written to allow you to perform some action, and they can be reused as much as you want to without rewriting the needed steps.
 
-Anonymous functions that have no name can be automatically called by the interpreter when it reads them. 
+Anonymous functions that have no name can be automatically called by the interpreter when it reads them.
 
 Functions can also take in information as arguments and return information outside of the function.
 
@@ -58,9 +58,23 @@ Functions can also take in information as arguments and return information outsi
 
 The practice of having two developers work on one thing together.
 
-One works as "the driver" while the other is "the navigator." 
+One works as "the driver" while the other is "the navigator."
 
 In this case the driver is the one that actually types the code and manages the files.
 
 The navigator considers how to convert a concept into code, checks for errors in the driver's code, and thinks about what task to tackle next.  But they don't touch the code at any time.
 
+Benefits of pair programming include:
+
+1. Greater efficiency
+2. Engaged Collaboration
+3. Learning from peers
+4. Improving social skills
+5. Readiness for interviews
+6. Readiness for the work environment.
+
+[Pair Programming Source](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+## Things I want to know more about
+
+I definitely want to dig more thoroughly into the layout section.  There was a lot of information in there that I'll probably revisi this weekend.
