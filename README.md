@@ -17,11 +17,12 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 1.
 2.
 3.
-4.
-5.
+4. [Class 4: Directory Structure, CSS Layout, and Pair Programming](https://haydencleaver.github.io/reading-notes/class-04)
+
+5. [Class 5: HTML Media and CSS Text/Color](https://haydencleaver.github.io/reading-notes/class-05)
 6.
 7.
-8.
+8. [Class 8: Flexbox and Layout](https://haydencleaver.github.io/reading-notes/class-08)
 9.
 10.
 11.
@@ -42,5 +43,4 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 - [Class 6: JavaScript](https://haydencleaver.github.io/reading-notes/Class6)
 - [Class 7: Functions](https://haydencleaver.github.io/reading-notes/Class7)
 - [Class 8: Operators and Loops](https://haydencleaver.github.io/reading-notes/Class8)
-- [Class 4: Directory Structure, CSS Layout, and Pair Programming](https://haydencleaver.github.io/reading-notes/class-04)
-- [Class 5: HTML Media and CSS Text/Color](https://haydencleaver.github.io/reading-notes/class-05)
+- 
