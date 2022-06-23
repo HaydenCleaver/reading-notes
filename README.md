@@ -28,7 +28,7 @@ I'm a former Air Force NCO that worked as a Cryptologic Language Analyst for 6 y
 11.
 12.
 13. [Class 13: Local Storage](https://haydencleaver.github.io/reading-notes/class-13)
-14.
+14. [Class 14: CSS Transforms and Google](https://haydencleaver.github.io/reading-notes/class-14)
 15.
 
 ***
