@@ -31,7 +31,7 @@ This is just a collection of personal notes and resources used to help study and
 
 #### Daily Reading Assignments
 
-1.
+1. [Class 1: Intro to React and Components](https://haydencleaver.github.io/reading-notes/301_Class1.md)
 2.
 3.
 4.
