@@ -1,5 +1,7 @@
 # Class 3
 
+These readings are important because they give us more tools to manipulate objects and arrays and to iterate over them more easily.  The video explains how we can get components to interact with each other.
+
 ## React - Lists and Keys
 
 1. `.map()` takes an array and returns a new one.
@@ -49,3 +51,5 @@ Reference: [Medium](https://medium.com/coding-at-dawn/how-to-use-the-spread-oper
 ## Passing Functions Between Components
 
 1. He creates a function and assigns it a variable to be passed to another componenent as a prop. 
+
+[Return to Table of Contents](https://haydencleaver.github.io/reading-notes/)
