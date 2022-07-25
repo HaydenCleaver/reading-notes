@@ -37,10 +37,11 @@ This is just a collection of personal notes and resources used to help study and
 4.
 5.
 6.
-7.
-8.
+7. [Class 7: REST and API Keys](https://haydencleaver.github.io/reading-notes/301_Class7.md)
+8. [Class 8: APIs and REST](https://haydencleaver.github.io/reading-notes/301_Class8.md)
 9.
 10.
+11. [Class 11: Mongo and Mongoose](https://haydencleaver.github.io/reading-notes/301_Class11.md)
 
 ## Code 201 - Foundations of Software Development
 
