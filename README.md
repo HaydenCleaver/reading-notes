@@ -16,7 +16,7 @@ This is just a collection of personal notes and resources used to help study and
 
 #### Daily Reading Assignments
 
-1.
+1. [Class 1: Node]((https://haydencleaver.github.io/reading-notes/401_Class1.md))
 2.
 3.
 4.
