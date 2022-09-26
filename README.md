@@ -16,11 +16,11 @@ This is just a collection of personal notes and resources used to help study and
 
 #### Daily Reading Assignments
 
-1. [Class 1: Node]((https://haydencleaver.github.io/reading-notes/401/401_Class1.md))
-2. [Class 2: Express, NPM, CI/CD]((https://haydencleaver.github.io/reading-notes/401/401_Class2.md))
-3.
-4.
-5.
+1. [Class 1: Node](https://haydencleaver.github.io/reading-notes/401/401_Class1.md)
+2. [Class 2: Express, NPM, CI/CD](https://haydencleaver.github.io/reading-notes/401/401_Class2.md)
+3. 
+4. [Class 4: SQL and NoSQL](https://haydencleaver.github.io/reading-notes/401/401_Class4.md)
+5. [Class 6: Authentication](https://haydencleaver.github.io/reading-notes/401/401_Class6.md)
 6.
 7.
 8.
