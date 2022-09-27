@@ -1,7 +1,5 @@
 # Class 7
 
-Node is a flexible and powerful runtime environment that allows us to utilize a large kit of tools to help with software development
-
 ## Intro to JWT
 
 1. What is a JSON Web Token (JWT)?
