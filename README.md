@@ -21,8 +21,8 @@ This is just a collection of personal notes and resources used to help study and
 3. 
 4. [Class 4: SQL and NoSQL](https://haydencleaver.github.io/reading-notes/401/401_Class4.md)
 5. [Class 6: Authentication](https://haydencleaver.github.io/reading-notes/401/401_Class6.md)
-6.[Class 7: JSON Web Tokens](https://haydencleaver.github.io/reading-notes/401/401_Class7.md)
-7.
+6. [Class 7: JSON Web Tokens](https://haydencleaver.github.io/reading-notes/401/401_Class7.md)
+7. [Class 8: Access Control](https://haydencleaver.github.io/reading-notes/401/401_Class7.md)
 8.
 9.
 10.
