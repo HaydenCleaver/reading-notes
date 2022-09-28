@@ -1,6 +1,5 @@
 # Class 8: Access Control
 
-
 ## 5 Steps to RBAC
 
 1. What is Role Based Access Control (RBAC) and why do we care?
@@ -31,14 +30,16 @@
 
     1. Role Assignment:  
         * A subject can exercise a permission only if the subject has selected or been assigned a role.
-    2.  Role Authorization:
-        *  A subject's active role must be authorized for the subject. With rule 1 above, this rule ensures that users can take on only roles for which they are authorized.
+    2. Role Authorization:
+        * A subject's active role must be authorized for the subject. With rule 1 above, this rule ensures that users can take on only roles for which they are authorized.
     3. Permission Authorization:
-        *  A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.
+    * A subject can exercise a permission only if the permission is authorized for the subject's active role. With rules 1 and 2, this rule ensures that users can exercise only permissions for which they are authorized.
 
 3. Describe RBAC to a non-technical friend.
 
     * Essentially, access to privilages is restricted based upon your role and what you do in an organization.
+
+    Source: [RBAC Wiki](https://en.wikipedia.org/wiki/Role-based_access_control)
 
 ## RBAC Tutorial
 
@@ -54,5 +55,7 @@
 
     * It limits the security risk that each employee and system represents, and it potentially contains the damage that can be done to the system.
     * It makes maintenance of the policy and authorization list easier.
+
+    Source: [Udacity - Youtube Video](https://www.youtube.com/watch?v=C4NP8Eon3cA)
 
 [Return to Table of Contents](https://haydencleaver.github.io/reading-notes/)
