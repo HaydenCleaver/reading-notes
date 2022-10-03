@@ -26,6 +26,7 @@ This is just a collection of personal notes and resources used to help study and
 8.
 9.
 10.
+11. [Class 11: Event-Driven Programming](https://haydencleaver.github.io/reading-notes/401/401_Class11.md)
 
 ## Code 301 - Intermediate Software Development
 
