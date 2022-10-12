@@ -29,8 +29,9 @@ This is just a collection of personal notes and resources used to help study and
 11. [Class 11: Event-Driven Programming](https://haydencleaver.github.io/reading-notes/401/401_Class11.md)
 12. [Class 12: Web Sockets](https://haydencleaver.github.io/reading-notes/401/401_Class12.md)
 13. [Class 13: Message Queues](https://haydencleaver.github.io/reading-notes/401/401_Class13.md)
-14. [Class 16: AWS](https://haydencleaver.github.io/reading-notes/301_Class14.md)
-
+14. [Class 16: AWS](https://haydencleaver.github.io/reading-notes/301_Class16.md)
+15. [Class 17: More AWS](https://haydencleaver.github.io/reading-notes/301_Class17.md)
+16. [Class 18: Even More AWS Services](https://haydencleaver.github.io/reading-notes/301_Class18.md)
 
 
 
